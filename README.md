@@ -1,6 +1,7 @@
 # Deep-learning-for-Light-Field-Microscopy 
 
 Deep learning toolbox for excitation-free bioluminescence imaging
+![Registration](media/cover_paper.PNG)
 
 ## Overview
 EFµ is a toolbox for the implementation of Deep Learning pipelines to bioluminescent microscopy imaging [1]. This includes the use of common deep learning tasks such as denoising to the reconstruction of 3D bioluminescent scenes using light field microscopy. Scripts, models, and environments are provided in this repository to facilitate the run of the experiments.
