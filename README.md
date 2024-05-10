@@ -1,4 +1,4 @@
-# EFµ
+# Deep-learning-for-Light-Field-Microscopy 
 
 Deep learning toolbox for excitation-free bioluminescence imaging
 
